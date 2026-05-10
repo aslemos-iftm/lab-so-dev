@@ -8,7 +8,8 @@
 # // ASSIGN SYS004,TAPE para associar um job a um dispositivo.
 # No shell moderno, qual mecanismo cumpre papel equivalente?
 
-Resposta:
+Resposta: teste
+teste
 
 # ─────────────────────────────────────────────────────
 
