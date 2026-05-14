@@ -1,0 +1,16 @@
+=== RELATORIO DO SISTEMA — Thu May 14 02:10:16 UTC 2026 ===
+
+--- Processador ---
+model name	: AMD EPYC 7763 64-Core Processor
+
+--- Memoria (kB) ---
+MemTotal:        8135224 kB
+MemFree:          164484 kB
+
+--- Tempo ligado (s) ---
+775.27
+
+--- Processos em execucao ---
+23
+
+=== FIM DO RELATORIO ===
