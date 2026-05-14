@@ -15,8 +15,12 @@ soma.o: soma.c
 clean:
 	rm -f soma soma.o soma.i soma.s
 
-relatorio:
-	bash relatorio.sh > relatorio_build.txt
-	@echo "Relatorio gerado."
+.PHONY: clean
 
-.PHONY: clean relatorio
+
+
+
+
+
+
+
