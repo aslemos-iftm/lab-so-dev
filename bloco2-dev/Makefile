@@ -19,6 +19,9 @@ relatorio:
 	bash relatorio.sh > relatorio_build.txt
 	@echo "Relatorio gerado."
 
+trace:
+	strace ./soma 2> strace_soma.txt
+
 .PHONY: clean relatorio
 
 
