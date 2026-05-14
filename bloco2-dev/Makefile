@@ -18,4 +18,4 @@ clean:
 relatorio:
 	bash relatorio.sh > relatorio_build.txt
 	@echo "Relatorio gerado."
-.PHONY: clean
+.PHONY: clean relatorio
